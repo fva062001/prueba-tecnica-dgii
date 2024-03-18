@@ -37,3 +37,7 @@ C:\Users\Ferna\OneDrive\Desktop\Coding\Repos\prueba-tecnica-dgii\ContribuyentesA
 C:\Users\Ferna\OneDrive\Desktop\Coding\Repos\prueba-tecnica-dgii\ContribuyentesAPI\obj\Debug\net8.0\ContribuyentesAPI.pdb
 C:\Users\Ferna\OneDrive\Desktop\Coding\Repos\prueba-tecnica-dgii\ContribuyentesAPI\obj\Debug\net8.0\ContribuyentesAPI.genruntimeconfig.cache
 C:\Users\Ferna\OneDrive\Desktop\Coding\Repos\prueba-tecnica-dgii\ContribuyentesAPI\obj\Debug\net8.0\ref\ContribuyentesAPI.dll
+C:\Users\Ferna\OneDrive\Desktop\Coding\Repos\prueba-tecnica-dgii\ContribuyentesAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Ferna\OneDrive\Desktop\Coding\Repos\prueba-tecnica-dgii\ContribuyentesAPI\bin\Debug\net8.0\Moq.dll
+C:\Users\Ferna\OneDrive\Desktop\Coding\Repos\prueba-tecnica-dgii\ContribuyentesAPI\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Ferna\OneDrive\Desktop\Coding\Repos\prueba-tecnica-dgii\ContribuyentesAPI\bin\Debug\net8.0\nunit.framework.legacy.dll
